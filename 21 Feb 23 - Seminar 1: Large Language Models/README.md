@@ -21,7 +21,8 @@ A light breakfast and coffee will be served for attendees before the event, from
 | 08:50–09:00 | Exploring the Potential Benefits of Large Language Models | Pierre Lison, Senior Researcher at The Norwegian Computing Center |
 | 09:00–09:10 | Applied research example: Interview training of child-welfare and law-enforcement professionals interviewing maltreated children supported via artificial avatars | Michael Riegler, Chief Research Scientist at Simula/Research Professor |
 | 09:10–09:20 | Exploring the Societal and Ethical Implications of Language Models | Samia Touileb, Researcher, MediaFutures, UiB |
-| 09:20–10:00 | Panel discussion: A panel of experts discussing the ethical implications of large language models, including issues related to bias, privacy, and accountability | Klas Pettersen, Lilja Øvrelid, Pierre Lison, Michael Riegler, Samia Touileb|
+| 09:20–09:30 | When factuality matters. Starting from the opposite point of the LLMs -  building computationally efficient AI that gets the facts right | Anita Schjøll Abildgaard, CEO of Iris.ai |
+| 09:30–10:00 | Panel discussion: A panel of experts discussing the ethical implications of large language models, including issues related to bias, privacy, and accountability | Klas Pettersen, Lilja Øvrelid, Pierre Lison, Michael Riegler, Samia Touileb|
 | 10:00–10:30 | Break | |
 | 10:30–13:00 | A technical deep dive | TBA |
 
