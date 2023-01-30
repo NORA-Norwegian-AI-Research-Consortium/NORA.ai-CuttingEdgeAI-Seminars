@@ -16,15 +16,18 @@ A light breakfast and coffee will be served for attendees before the event, from
 
 | Time | Topic | Speaker |
 |:--------------|:------|:--------|
-| 08:30–08:40 | Introduction to the seminar series, Cutting-edge AI | Klas Pettersen, CEO, NORA.ai |
-| 08:40–08:50 | Exploring ChatGPT and Large Language Models | Lilja Øvrelid, Professor of Language Technology, UiO |
-| 08:50–09:00 | Exploring the Potential Benefits of Large Language Models | Pierre Lison, Senior Researcher at The Norwegian Computing Center |
-| 09:00–09:10 | Applied research example: Interview training of child-welfare and law-enforcement professionals interviewing maltreated children supported via artificial avatars | Michael Riegler, Chief Research Scientist at Simula/Research Professor |
-| 09:10–09:20 | Exploring the Societal and Ethical Implications of Language Models | Samia Touileb, Researcher, MediaFutures, UiB |
+| 08:30–08:40 | Introduction to the seminar series, CuttingEdgeAI | Klas Pettersen, CEO, NORA.ai |
+| 08:40–08:50 | ChatGPT and Large Language Models | Lilja Øvrelid, Professor of Language Technology, UiO |
+| 08:50–09:00 | The Potential Benefits of Large Language Models | Pierre Lison, Senior Researcher at The Norwegian Computing Center |
+| 09:00–09:10 | Interview training of child-welfare and law-enforcement professionals interviewing maltreated children supported via artificial avatars | Michael Riegler, Chief Research Scientist at Simula/Research Professor |
+| 09:10–09:20 | The Societal and Ethical Implications of Language Models | Samia Touileb, Researcher, MediaFutures, UiB |
 | 09:20–09:30 | When factuality matters. Starting from the opposite point of the LLMs -  building computationally efficient AI that gets the facts right | Anita Schjøll Abildgaard, CEO of Iris.ai |
-| 09:30–10:00 | Panel discussion: A panel of experts discussing the ethical implications of large language models, including issues related to bias, privacy, and accountability | Klas Pettersen, Lilja Øvrelid, Pierre Lison, Michael Riegler, Samia Touileb|
+| 09:30–10:00 | Panel discussion: The Ethics of Large Language Models. A panel of experts discussing the ethical implications of large language models, including issues related to bias, privacy, and accountability | Klas Pettersen, Samia Touileb. Additional panellists will be announced in the coming days.|
 | 10:00–10:30 | Break | |
 | 10:30–13:00 | A technical deep dive | TBA |
+| 10:30-10:35 | Introduction to the technical deep dive | Klas Pettersen, CEO, NORA.ai |
+| 10:35-11:20 | Language Models Demystified | Andrei Kutuzov, Associate Professor, Research Group for Language Technology, UiO |
+| 11:20-13:00 | Additional speakers will be announced in the coming days | TBA |
 
 ## Code
 
