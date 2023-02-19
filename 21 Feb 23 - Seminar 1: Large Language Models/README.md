@@ -6,11 +6,9 @@ Date: 21 February 2023
 Time: 08:30 - 13:00
 Location: Domus Bibliotheca
 
-NORA will democratize AI by providing an accessible platform for people to gain knowledge, exchange ideas, and collaborate on projects related to AI. We are excited to launch our quarterly "Cutting-Edge AI" event series with an upcoming event at Domus Bibliotheca, Karl Johans gt. 47, Oslo, on February 21st. The meeting is open to anyone, including industry, public sector, SMEs and academia. The first part of the event will be general (08:30-10:00). For the more technically-oriented participants, we will delve deeper into the technology in the second part (10:30-13:00). 
+NORA will democratize AI by providing an accessible platform for people to gain knowledge, exchange ideas, and collaborate on projects related to AI. We are excited to launch our quarterly "CuttingEdgeAI" event series starting with an event at Domus Bibliotheca, Karl Johans gt. 47, Oslo, on February 21st. The first part of the event is general (08:30-10:00). For the more technically-oriented participants, we will delve deeper into the technology in the second part (10:30-13:00). 
 
-Our focus for the first event is on Large Language Models such as ChatGPT; the technology, its implication on society and the ethical aspects. The first part of the event will be for a general audience, featuring four short presentations from Norway’s leading researchers in the field, followed by a panel discussion. For the second part, starting 10:30, we will have a technical deep dive session. The attendees can expect to delve into the technical aspects of training and fine-tuning these models, making it a unique and informative event that stands out from other events in this field. 
-
-A light breakfast and coffee will be served for attendees before the event, from 08:00.
+Our focus for the first event is on Large Language Models such as ChatGPT, the technology, its implication on society and the ethical aspects. The first part of the event is for a general audience, featuring five short presentations from Norway’s leading researchers in the field, followed by a panel discussion. The second part, starting at 10:45, is a technical deep dive session. The attendees can expect to delve into the technical aspects of training and fine-tuning these models, making it a unique and informative event that stands out from other events in this field. 
 
 ## Agenda
 
@@ -22,12 +20,14 @@ A light breakfast and coffee will be served for attendees before the event, from
 | 09:00–09:10 | Interview training of child-welfare and law-enforcement professionals interviewing maltreated children supported via artificial avatars | Michael Riegler, Chief Research Scientist at Simula/Research Professor |
 | 09:10–09:20 | The Societal and Ethical Implications of Language Models | Samia Touileb, Researcher, MediaFutures, UiB |
 | 09:20–09:30 | When factuality matters. Starting from the opposite point of the LLMs -  building computationally efficient AI that gets the facts right | Anita Schjøll Abildgaard, CEO of Iris.ai |
-| 09:30–10:00 | Panel discussion: The Ethics of Large Language Models. A panel of experts discussing the ethical implications of large language models, including issues related to bias, privacy, and accountability | Klas Pettersen, Samia Touileb. Additional panellists will be announced in the coming days.|
-| 10:00–10:30 | Break | |
-| 10:30–13:00 | A technical deep dive | TBA |
-| 10:30-10:35 | Introduction to the technical deep dive | Klas Pettersen, CEO, NORA.ai |
-| 10:35-11:20 | Language Models Demystified | Andrei Kutuzov, Associate Professor, Research Group for Language Technology, UiO |
-| 11:20-13:00 | Additional speakers will be announced in the coming days | TBA |
+| 09:30–10:15 | Panel discussion: The Ethics of Large Language Models. A panel of experts discussing the ethical implications of large language models, including issues related to bias, privacy, and accountability | Moderator: Klas Pettersen; Panellists: Samia Touileb, Anita Schjøll Abildgaard, Eivind Throndsen, Per Erik Solberg, Sten Ludvigsen. |
+| 10:15–10:45 | Break | |
+| 10:45–13:00 | A technical deep dive | TBA |
+| 10:45-10:50 | Introduction to the technical deep dive | Samia Touileb, Researcher, MediaFutures, UiB |
+| 10:50-11:30 | Language Models Demystified | Andrei Kutuzov, Associate Professor, Research Group for Language Technology, UiO |
+| 11:30-11:50 | When factuality matters - the technical perspective. How Iris.ai tackles the problems of lack of data for fine-tuning, and injection of knowledge, for applications where adherence to facts matter | Victor Botev, CTO of Iris.ai |
+| 11:50-12:30 | Fine-tuning Language Models with Norwegian Open Data | Per Egil Kummervold, Senior Researcher at the National Library of Norway |
+| 12:30-13:00 | Training and deploying LLMs reliably | Arjun Chandra, Independent AI researcher, engineer, and founder of brua.io |
 
 ## Code
 
@@ -43,4 +43,4 @@ This repository is licensed under the [MIT License](LICENSE) unless otherwise sp
 
 ## Contact
 
-For any questions, please contact us at contact@nora.ai.
+For any questions, please contact us at contact@nora.ai, or kushtrim.visoka@nora.ai.
