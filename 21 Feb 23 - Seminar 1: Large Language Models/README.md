@@ -2,6 +2,8 @@
 
 # Cutting-edge AI: Large Language Models
 
+<img src='https://github.com/NORA-Norwegian-AI-Research-Consortium/Cutting-edge-AI-Events/raw/main/21 Feb 23 - Seminar 1: Large Language Models/img/CuttingEdgeAI Banner SQ.jpg' width='450'>
+
 Date: 21 February 2023
 Time: 08:30 - 13:00
 Location: Domus Bibliotheca
@@ -12,22 +14,22 @@ Our focus for the first event is on Large Language Models such as ChatGPT, the 
 
 ## Agenda
 
-| Time | Topic | Speaker |
-|:--------------|:------|:--------|
-| 08:30–08:40 | Introduction to the seminar series, CuttingEdgeAI | Klas Pettersen, CEO, NORA.ai |
-| 08:40–08:50 | ChatGPT and Large Language Models | Lilja Øvrelid, Professor of Language Technology, UiO |
-| 08:50–09:00 | The Potential Benefits of Large Language Models | Pierre Lison, Senior Researcher at The Norwegian Computing Center |
-| 09:00–09:10 | Interview training of child-welfare and law-enforcement professionals interviewing maltreated children supported via artificial avatars | Michael Riegler, Chief Research Scientist at Simula/Research Professor |
-| 09:10–09:20 | The Societal and Ethical Implications of Language Models | Samia Touileb, Researcher, MediaFutures, UiB |
-| 09:20–09:30 | When factuality matters. Starting from the opposite point of the LLMs -  building computationally efficient AI that gets the facts right | Anita Schjøll Abildgaard, CEO of Iris.ai |
-| 09:30–10:15 | Panel discussion: The Ethics of Large Language Models. A panel of experts discussing the ethical implications of large language models, including issues related to bias, privacy, and accountability | Moderator: Klas Pettersen; Panellists: Samia Touileb, Anita Schjøll Abildgaard, Eivind Throndsen, Per Erik Solberg, Sten Ludvigsen. |
-| 10:15–10:45 | Break | |
-| 10:45–13:00 | A technical deep dive | TBA |
-| 10:45-10:50 | Introduction to the technical deep dive | Samia Touileb, Researcher, MediaFutures, UiB |
-| 10:50-11:30 | Language Models Demystified | Andrei Kutuzov, Associate Professor, Research Group for Language Technology, UiO |
-| 11:30-11:50 | When factuality matters - the technical perspective. How Iris.ai tackles the problems of lack of data for fine-tuning, and injection of knowledge, for applications where adherence to facts matter | Victor Botev, CTO of Iris.ai |
-| 11:50-12:30 | Fine-tuning Language Models with Norwegian Open Data | Per Egil Kummervold, Senior Researcher at the National Library of Norway |
-| 12:30-13:00 | Training and deploying LLMs reliably | Arjun Chandra, Independent AI researcher, engineer, and founder of brua.io |
+| Time | Topic | Speaker | Video |
+|:--------------|:------|:--------|:--------|
+| 08:30–08:40 | Introduction to the seminar series, CuttingEdgeAI | Klas Pettersen, CEO, NORA.ai | [YouTUBE](https) |
+| 08:40–08:50 | ChatGPT and Large Language Models | Lilja Øvrelid, Professor of Language Technology, UiO | [YouTUBE](https) |
+| 08:50–09:00 | The Potential Benefits of Large Language Models | Pierre Lison, Senior Researcher at The Norwegian Computing Center | [YouTUBE](https) |
+| 09:00–09:10 | Interview training of child-welfare and law-enforcement professionals interviewing maltreated children supported via artificial avatars | Michael Riegler, Chief Research Scientist at Simula/Research Professor | [YouTUBE](https) |
+| 09:10–09:20 | The Societal and Ethical Implications of Language Models | Samia Touileb, Researcher, MediaFutures, UiB | [YouTUBE](https) |
+| 09:20–09:30 | When factuality matters. Starting from the opposite point of the LLMs -  building computationally efficient AI that gets the facts right | Anita Schjøll Abildgaard, CEO of Iris.ai | [YouTUBE](https) |
+| 09:30–10:15 | Panel discussion: The Ethics of Large Language Models. A panel of experts discussing the ethical implications of large language models, including issues related to bias, privacy, and accountability | Moderator: Klas Pettersen; Panellists: Samia Touileb, Anita Schjøll Abildgaard, Eivind Throndsen, Per Erik Solberg, Sten Ludvigsen. | [YouTUBE](https) |
+| 10:15–10:45 | Break | | |
+| 10:45–13:00 | A technical deep dive | | |
+| 10:45-10:50 | Introduction to the technical deep dive | Samia Touileb, Researcher, MediaFutures, UiB | [YouTUBE](https) |
+| 10:50-11:30 | Language Models Demystified | Andrei Kutuzov, Associate Professor, Research Group for Language Technology, UiO | [YouTUBE](https) |
+| 11:30-11:50 | When factuality matters - the technical perspective. How Iris.ai tackles the problems of lack of data for fine-tuning, and injection of knowledge, for applications where adherence to facts matter | Victor Botev, CTO of Iris.ai | [YouTUBE](https) |
+| 11:50-12:30 | Fine-tuning Language Models with Norwegian Open Data | Per Egil Kummervold, Senior Researcher at the National Library of Norway | [YouTUBE](https) |
+| 12:30-13:00 | Training and deploying LLMs reliably | Arjun Chandra, Independent AI researcher, engineer, and founder of brua.io | [YouTUBE](https) |
 
 ## Code
 
