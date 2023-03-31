@@ -14,7 +14,7 @@ Welcome to the [NORA.ai](https://nora.ai) Cutting-edge AI seminar series reposit
 
 | Date | Topic | Location | Resources |
 |:--------------|:------|:--------|:--------|
-| [21 February 2023](https://github.com/NORA-Norwegian-AI-Research-Consortium/Cutting-edge-AI-Events/blob/main/21%20Feb%2023%20-%20Seminar%201%3A%20Large%20Language%20Models/) | Large Language Models | Domus Bibliotheca | TBA |
+| [21 February 2023](https://github.com/NORA-Norwegian-AI-Research-Consortium/Cutting-edge-AI-Events/blob/main/21%20Feb%2023%20-%20Seminar%201%3A%20Large%20Language%20Models/) | Large Language Models | Domus Bibliotheca | 
 
 ## Discussion
 

@@ -31,10 +31,6 @@ Our focus for the first event is on Large Language Models such as ChatGPT, the 
 | 11:50-12:30 | Fine-tuning Language Models with Norwegian Open Data | Per Egil Kummervold, Senior Researcher at the National Library of Norway | [YouTUBE](https://youtu.be/hXFNAe8YVmg) |
 | 12:30-13:00 | Training and deploying LLMs reliably | Arjun Chandra, Independent AI researcher, engineer, and founder of brua.io | [YouTUBE](https://youtu.be/go7UtrmKDDk) |
 
-## Code
-
-The code for this event will be announced at the event.
-
 ## Discussion
 
 You have questions? Join our community discussions in the 'Discussions' tab, share your thoughts and give feedback on the events.
