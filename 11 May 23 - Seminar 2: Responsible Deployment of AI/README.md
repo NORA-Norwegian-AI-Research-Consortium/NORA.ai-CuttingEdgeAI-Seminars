@@ -5,7 +5,9 @@
 <img src='https://github.com/NORA-Norwegian-AI-Research-Consortium/Cutting-edge-AI-Events/raw/main/11 May 23 - Seminar 2: Responsible Deployment of AI/img/cutting-edge-ai-11-may.jpg' width='450'>
 
 Date: 11 May 2023
+
 Time: 08:30 - 13:00
+
 Location: Domus Bibliotheca
 
 We were excited to kick off our second event as part of the CuttingEdgeAI series on May 11th, which focused on the responsible deployment of AI. The event took place at Domus Bibliotheca in Karl Johans gt. 47, Oslo.
