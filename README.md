@@ -8,7 +8,7 @@ Welcome to the [NORA.ai](https://nora.ai) Cutting-edge AI seminar series reposit
 
 | Date | Topic | Location | Link |
 |:--------------|:------|:--------|:--------|
-| [04 Sep 2023]() | TBA | Domus Bibliotheca | [Register here](https://www.nora.ai/events/cuttingedgeai.html) |
+| [06 Sep 2023]() | TBA | Domus Bibliotheca | [Register here](https://www.nora.ai/events/cuttingedgeai.html) |
 
 ## Past events
 
